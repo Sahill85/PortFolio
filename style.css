@@ -98,7 +98,9 @@ nav ul li a:hover::after {
 .headtext h1 span {
     color: #ff004f;
 }
-
+#noo a{
+    font-size: 60px;
+}
 /* ---------------------------About--------------------------------- */
 #about {
     padding: 80px 0px;
@@ -413,6 +415,12 @@ nav .fa-solid{
         float: left;
         width: 70%;
         color: #fff;
+    }
+    #noo a{
+        font-size: 30px;
+    }
+    .headd h2{
+        color: #a5a5a5;
     }
     #element{
         color: rgb(50, 255, 245);
