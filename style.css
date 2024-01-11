@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -103,6 +104,7 @@ nav ul li a:hover::after {
 
 .headtext h1 span {
     color: #ff004f;
+    font-family: 'Young Serif', serif;
 }
 
 #noo a {
